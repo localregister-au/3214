@@ -47,8 +47,17 @@ raised_by: [Your name, or "A 3214 resident"]
 
 ## Evidence
 
-[Links to documents, sensor data, photos, screenshots, FOI outcomes — whatever supports the entry.]
+[Links to documents, sensor data, photos, screenshots, FOI outcomes, news articles — whatever supports the entry. **Every factual claim above should be traceable to something listed here.** If a source isn't linkable (e.g. a private conversation, a paywalled article, a photo not yet uploaded), say so explicitly rather than leaving it unsourced — "article behind paywall, citation: [publication, author, date, headline]" is acceptable; an unlabelled gap is not.]
 ```
+
+### Sourcing standard
+
+An entry without traceable sources is a claim, not a register entry. At minimum, every entry should include:
+- A direct link, where one exists (article URL, document URL, public post URL)
+- A full citation, where a direct link isn't possible (publication, author, date, headline — so the source can be independently located)
+- A clear note where something genuinely can't be sourced publicly (e.g. a private conversation registered under the public-power provision in the Founding Document) — explaining *why* it's unsourced, not just leaving it blank
+
+This isn't about distrusting submitters — it's what makes the register more credible than the institutions it's holding accountable. An entry that can be checked is worth more than one that has to be taken on faith.
 
 ### If an issue affects more than one postcode
 
